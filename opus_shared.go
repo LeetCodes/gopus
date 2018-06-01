@@ -1,6 +1,6 @@
 // +build !amd64,!386,cgo
 
-package gopus // import "gopus"
+package gopus // import "github.com/LeetCodes/gopus"
 
 // #cgo !nopkgconfig pkg-config: opus
 //
